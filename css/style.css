@@ -1,0 +1,147 @@
+*{
+	margin:0;
+	padding:0;
+}
+.header{
+	background-color: #e8ebf1;
+	padding-top: 35px;
+}
+
+.navbar-nav>li:hover {
+    background-image: url("../images/menu-bg.png");
+    background-repeat: no-repeat;
+    background-repeat-x: repeat;
+   background-color: #fff;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    color: #2aacc8 !important;
+}
+.content-area{
+	max-width: 1000px;
+    margin: 0 auto;
+}
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+}
+.navbar {
+    border-radius: 0;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #000;
+    text-transform: uppercase;
+    font-size: 13px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.banner{
+	background-color: #81e4ed;
+    padding-top: 20px;
+	padding-bottom: 40px;
+}
+.gallery{
+	background-color: #e8ebf1;
+    padding-bottom: 50px;
+    padding-top: 55px;
+    font-size: 13px;
+}
+.gallery i{
+	color: #fff;
+    border: 1px solid #2aacc8;
+    background-color: #2aacc8;
+    border-radius: 100%;
+    padding: 10px;
+    font-size: 15px;
+}
+.gallery h4{
+	padding-left: 50px;
+    margin-top: -25px;
+}
+.gallery p{
+	padding-top:20px;
+}
+.latest-works img{
+	max-width: 100%;
+    padding-bottom: 40px;
+	padding-top: 20px;
+}
+.latest-works i{
+	padding-top: 20px;
+    color: #2aacc8;
+    font-size: 25px;
+}
+.latest-works h4{
+	margin-top: -15px;
+    padding-left: 35px;
+}
+.latest-works-top{
+	border-bottom:1px solid #dfe1e5;
+}
+.img-gallery{
+	border-bottom:1px solid #dfe1e5;
+}
+.our-clients i{
+	color: #2aacc8;
+	font-size:25px;
+}
+.our-clients{
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+.our-clients p{
+	font-size:14px;
+	padding-bottom: 15px;
+}
+.our-clients h4{
+	padding-left: 40px;
+    margin-top: -20px;
+}
+.our-clients img{}
+.download p{
+	font-size: 16px;
+    padding-left: 30px;
+    max-width: 640px;
+	padding-top: 35px;
+    padding-bottom: 35px;
+}
+.download {
+	padding-bottom: 35px;
+}
+.download-psd{
+	padding-top:35px;
+}
+.color{
+	background-color: #e8fcfe;
+    border: 1px solid #81e4ed;
+	margin:0px;
+}
+.footer{
+	padding-top:30px;
+	background-color:e8ebf1;
+}
+.footer h4{
+	padding-bottom: 15px;
+}
+.footer img{
+	padding-bottom: 30px;
+	padding-left: 28px;
+}
+.footer-bottom {
+	padding-top:30px;
+	font-size: 13px;
+}
+.footer-bottom img{
+	float:right;
+}
+.clients{
+	padding:0px;
+}
+.clint-row {
+    margin: 0px;
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
